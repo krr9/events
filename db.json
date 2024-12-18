@@ -1,0 +1,19 @@
+{
+    "events": [
+      {
+        "id": 1,
+        "name": "Christmas",
+        "date": "12/25/2024",
+        "time": "00:00:00"
+      },
+      {
+        "id": 2,
+        "name": "New Year",
+        "date": "01/01/2025",
+        "time": "00:00:00"
+      },
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
